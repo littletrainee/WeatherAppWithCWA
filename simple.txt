@@ -1,0 +1,1 @@
+curl -X 'GET' 'https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-C0032-001?Authorization=CWA-58A66B99-FFDC-44AA-A26F-4E7F83AE2A50&format=JSON&locationName=%E6%96%B0%E7%AB%B9%E5%B8%82' -H 'accept: application/json'
